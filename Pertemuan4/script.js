@@ -1,0 +1,1 @@
+var nameError = document.getElementById('name-error')
